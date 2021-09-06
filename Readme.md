@@ -56,8 +56,6 @@ subjects:
   name: openshift-gitops-argocd-application-controller
   namespace: openshift-gitops
 EOF
-
-
 ```
 
 ### Test argocd deployment whitout vault plugin
